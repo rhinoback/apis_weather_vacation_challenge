@@ -1,0 +1,225 @@
+citylist,country,lat,lon,temp,temp_max,cloudiness,humidity,windspeed,date,Hotel Name,hotel info
+Cape Town,ZA,-33.9258,18.4232,20.6,22.78,0,77,7.2,1614967842,Atlanticview Cape Town Boutique Hotel,"
+<dl>
+<dt>Name</dt><dd>Atlanticview Cape Town Boutique Hotel</dd>
+<dt>City</dt><dd>Cape Town</dd>
+<dt>Country</dt><dd>ZA</dd>
+</dl>
+"
+Carnarvon,AU,-24.8667,113.6333,24.0,24.0,0,94,6.17,1614967877,Carnarvon Sea Change Apartments,"
+<dl>
+<dt>Name</dt><dd>Carnarvon Sea Change Apartments</dd>
+<dt>City</dt><dd>Carnarvon</dd>
+<dt>Country</dt><dd>AU</dd>
+</dl>
+"
+Umluj,SA,25.0213,37.2685,22.44,22.44,0,39,9.25,1614968055,HP Red Sea Hotel,"
+<dl>
+<dt>Name</dt><dd>HP Red Sea Hotel</dd>
+<dt>City</dt><dd>Umluj</dd>
+<dt>Country</dt><dd>SA</dd>
+</dl>
+"
+Ancud,CL,-41.8697,-73.8203,24.21,25.0,0,31,3.09,1614968057,Panamericana Hotel Ancud,"
+<dl>
+<dt>Name</dt><dd>Panamericana Hotel Ancud</dd>
+<dt>City</dt><dd>Ancud</dd>
+<dt>Country</dt><dd>CL</dd>
+</dl>
+"
+Hermanus,ZA,-34.4187,19.2345,21.11,21.11,0,74,2.68,1614968066,Ocean Eleven,"
+<dl>
+<dt>Name</dt><dd>Ocean Eleven</dd>
+<dt>City</dt><dd>Hermanus</dd>
+<dt>Country</dt><dd>ZA</dd>
+</dl>
+"
+East London,ZA,-33.0153,27.9116,20.0,20.0,0,83,2.06,1614968068,Blue Lagoon Hotel,"
+<dl>
+<dt>Name</dt><dd>Blue Lagoon Hotel</dd>
+<dt>City</dt><dd>East London</dd>
+<dt>Country</dt><dd>ZA</dd>
+</dl>
+"
+Rach Gia,VN,10.0167,105.0833,24.0,24.0,0,100,2.53,1614968073,Sai Gon Rach Gia Hotel,"
+<dl>
+<dt>Name</dt><dd>Sai Gon Rach Gia Hotel</dd>
+<dt>City</dt><dd>Rach Gia</dd>
+<dt>Country</dt><dd>VN</dd>
+</dl>
+"
+Saldanha,ZA,-33.0117,17.9442,23.0,23.0,0,46,2.06,1614968080,Hoedjiesbaai Hotel,"
+<dl>
+<dt>Name</dt><dd>Hoedjiesbaai Hotel</dd>
+<dt>City</dt><dd>Saldanha</dd>
+<dt>Country</dt><dd>ZA</dd>
+</dl>
+"
+Qena,EG,26.1615,32.7183,21.0,21.0,0,30,1.03,1614968080,Movenpick MS Hamees,"
+<dl>
+<dt>Name</dt><dd>Movenpick MS Hamees</dd>
+<dt>City</dt><dd>Qena</dd>
+<dt>Country</dt><dd>EG</dd>
+</dl>
+"
+Guerrero Negro,MX,27.9769,-114.0611,21.19,21.19,0,28,2.55,1614968082,Hotel TerraSal,"
+<dl>
+<dt>Name</dt><dd>Hotel TerraSal</dd>
+<dt>City</dt><dd>Guerrero Negro</dd>
+<dt>Country</dt><dd>MX</dd>
+</dl>
+"
+Nouadhibou,MR,20.930999999999997,-17.0347,21.0,21.0,0,64,9.77,1614968088,HOTEL VALENCIA,"
+<dl>
+<dt>Name</dt><dd>HOTEL VALENCIA</dd>
+<dt>City</dt><dd>Nouadhibou</dd>
+<dt>Country</dt><dd>MR</dd>
+</dl>
+"
+Khanpur,PK,28.6453,70.6567,21.01,21.01,0,22,1.89,1614968091,Marhaba Guest House and Hotel,"
+<dl>
+<dt>Name</dt><dd>Marhaba Guest House and Hotel</dd>
+<dt>City</dt><dd>Khanpur</dd>
+<dt>Country</dt><dd>PK</dd>
+</dl>
+"
+San Isidro,PE,-12.1167,-77.05,27.0,27.0,0,61,6.17,1614968104,Selina Miraflores Lima,"
+<dl>
+<dt>Name</dt><dd>Selina Miraflores Lima</dd>
+<dt>City</dt><dd>San Isidro</dd>
+<dt>Country</dt><dd>PE</dd>
+</dl>
+"
+Henties Bay,,-22.116,14.2845,22.2,22.2,0,59,4.94,1614968109,Desert Rose,"
+<dl>
+<dt>Name</dt><dd>Desert Rose</dd>
+<dt>City</dt><dd>Henties Bay</dd>
+<dt>Country</dt><dd>nan</dd>
+</dl>
+"
+Bredasdorp,ZA,-34.5322,20.0403,20.0,20.0,0,83,4.12,1614968112,Rooftops Guest Cottage,"
+<dl>
+<dt>Name</dt><dd>Rooftops Guest Cottage</dd>
+<dt>City</dt><dd>Bredasdorp</dd>
+<dt>Country</dt><dd>ZA</dd>
+</dl>
+"
+Phan Thiet,VN,10.9333,108.1,21.47,21.47,0,83,3.37,1614968160,P'House Hotel,"
+<dl>
+<dt>Name</dt><dd>P'House Hotel</dd>
+<dt>City</dt><dd>Phan Thiet</dd>
+<dt>Country</dt><dd>VN</dd>
+</dl>
+"
+Vredendal,ZA,-31.6683,18.5012,19.36,19.36,0,61,3.73,1614968176,Voni's Cottage,"
+<dl>
+<dt>Name</dt><dd>Voni's Cottage</dd>
+<dt>City</dt><dd>Vredendal</dd>
+<dt>Country</dt><dd>ZA</dd>
+</dl>
+"
+Verāval,IN,20.9,70.3667,25.02,25.02,0,66,3.34,1614968177,HOTEL PLATINUM,"
+<dl>
+<dt>Name</dt><dd>HOTEL PLATINUM</dd>
+<dt>City</dt><dd>Verāval</dd>
+<dt>Country</dt><dd>IN</dd>
+</dl>
+"
+Rāzole,IN,16.4833,81.8333,20.75,20.75,0,83,0.57,1614968186,Dindi By The Godavari,"
+<dl>
+<dt>Name</dt><dd>Dindi By The Godavari</dd>
+<dt>City</dt><dd>Rāzole</dd>
+<dt>Country</dt><dd>IN</dd>
+</dl>
+"
+Port Blair,IN,11.6667,92.75,27.08,27.08,0,82,4.04,1614968114,Hotel Reef Atlantis,"
+<dl>
+<dt>Name</dt><dd>Hotel Reef Atlantis</dd>
+<dt>City</dt><dd>Port Blair</dd>
+<dt>Country</dt><dd>IN</dd>
+</dl>
+"
+Pīpri,IN,19.8,75.5333,23.0,23.0,0,40,1.03,1614968201,Hotel Siddheshwar,"
+<dl>
+<dt>Name</dt><dd>Hotel Siddheshwar</dd>
+<dt>City</dt><dd>Pīpri</dd>
+<dt>Country</dt><dd>IN</dd>
+</dl>
+"
+Lüderitz,,-26.6481,15.1594,22.32,22.32,0,48,6.81,1614968218,LÜDERITZ NEST HOTEL,"
+<dl>
+<dt>Name</dt><dd>LÜDERITZ NEST HOTEL</dd>
+<dt>City</dt><dd>Lüderitz</dd>
+<dt>Country</dt><dd>nan</dd>
+</dl>
+"
+Rewāri,IN,28.1833,76.6167,20.0,20.0,0,60,3.09,1614968220,Hotel Deep Palace,"
+<dl>
+<dt>Name</dt><dd>Hotel Deep Palace</dd>
+<dt>City</dt><dd>Rewāri</dd>
+<dt>Country</dt><dd>IN</dd>
+</dl>
+"
+Coyhaique,CL,-45.5752,-72.0662,27.0,27.0,0,17,2.06,1614968222,Hotel Dreams de la Patagonia,"
+<dl>
+<dt>Name</dt><dd>Hotel Dreams de la Patagonia</dd>
+<dt>City</dt><dd>Coyhaique</dd>
+<dt>Country</dt><dd>CL</dd>
+</dl>
+"
+Salalah,OM,17.0151,54.0924,26.0,26.0,0,57,1.54,1614968227,Salalah Gardens Hotel,"
+<dl>
+<dt>Name</dt><dd>Salalah Gardens Hotel</dd>
+<dt>City</dt><dd>Salalah</dd>
+<dt>Country</dt><dd>OM</dd>
+</dl>
+"
+Sinazongwe,ZM,-17.2614,27.4618,25.4,25.4,0,60,1.6,1614968235,Lakeview Lodge,"
+<dl>
+<dt>Name</dt><dd>Lakeview Lodge</dd>
+<dt>City</dt><dd>Sinazongwe</dd>
+<dt>Country</dt><dd>ZM</dd>
+</dl>
+"
+Sawākin,SD,19.1059,37.3321,22.81,22.81,0,62,5.57,1614968279,Arab Plaza Hotel عرب بلازا هوتيل,"
+<dl>
+<dt>Name</dt><dd>Arab Plaza Hotel عرب بلازا هوتيل</dd>
+<dt>City</dt><dd>Sawākin</dd>
+<dt>Country</dt><dd>SD</dd>
+</dl>
+"
+Pisco,PE,-13.7,-76.2167,26.37,27.0,0,74,4.63,1614968283,Hotel Presidente,"
+<dl>
+<dt>Name</dt><dd>Hotel Presidente</dd>
+<dt>City</dt><dd>Pisco</dd>
+<dt>Country</dt><dd>PE</dd>
+</dl>
+"
+Ritchie,ZA,-29.038,24.6028,23.0,23.0,0,28,3.6,1614968284,The Cygnature Boutique Hotel,"
+<dl>
+<dt>Name</dt><dd>The Cygnature Boutique Hotel</dd>
+<dt>City</dt><dd>Ritchie</dd>
+<dt>Country</dt><dd>ZA</dd>
+</dl>
+"
+Dalbandin,PK,28.8947,64.4101,22.3,22.3,0,21,1.4,1614968294,Al-Dawood Hotel & Restaurant,"
+<dl>
+<dt>Name</dt><dd>Al-Dawood Hotel & Restaurant</dd>
+<dt>City</dt><dd>Dalbandin</dd>
+<dt>Country</dt><dd>PK</dd>
+</dl>
+"
+Narasannapeta,IN,18.4167,84.05,22.84,22.84,0,78,2.86,1614968303,SPR Grand Hotel,"
+<dl>
+<dt>Name</dt><dd>SPR Grand Hotel</dd>
+<dt>City</dt><dd>Narasannapeta</dd>
+<dt>Country</dt><dd>IN</dd>
+</dl>
+"
+Gariāband,IN,20.635,82.0614,24.0,24.0,0,35,2.57,1614968325,HOTEL CITY REGENCY,"
+<dl>
+<dt>Name</dt><dd>HOTEL CITY REGENCY</dd>
+<dt>City</dt><dd>Gariāband</dd>
+<dt>Country</dt><dd>IN</dd>
+</dl>
+"
