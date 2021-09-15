@@ -1,2 +1,2 @@
 # apis_weather_vacation_challenge
-A redo of the unit 6 API python weather challenge as I lost the csv files from local drive and needed to redo the assingment from scratch
+A redo of the unit 6 API python weather challenge as I lost the csv files from local drive and needed to redo the assingment from scratch.  Althought this was really, really frustrating, I redid the assingment nearly fromt he beginning and I learned a valuable lesson about not moving around your files before you commit.  I really should commit more often.  I need to remember this and implment this in all my work.
